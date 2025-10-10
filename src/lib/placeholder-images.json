@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "dashboard-portfolio",
+      "description": "A vibrant chart showing stock market trends, representing the portfolio simulator feature.",
+      "imageUrl": "https://picsum.photos/seed/port/600/400",
+      "imageHint": "stock market"
+    },
+    {
+      "id": "dashboard-learn",
+      "description": "An open book with glowing icons, symbolizing the gamified learning modules.",
+      "imageUrl": "https://picsum.photos/seed/learn/600/400",
+      "imageHint": "book study"
+    },
+    {
+      "id": "dashboard-budgeting",
+      "description": "A digital wallet with coins and graphs, illustrating the interactive budgeting tools.",
+      "imageUrl": "https://picsum.photos/seed/budget/600/400",
+      "imageHint": "wallet money"
+    },
+    {
+      "id": "dashboard-fraud",
+      "description": "A shield protecting a smartphone, representing the fraud identification challenges.",
+      "imageUrl": "https://picsum.photos/seed/fraud/600/400",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "dashboard-advice",
+      "description": "A stylized brain with circuitry, symbolizing the AI-powered personalized financial advice.",
+      "imageUrl": "https://picsum.photos/seed/advice/600/400",
+      "imageHint": "artificial intelligence"
+    }
+  ]
+}
