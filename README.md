@@ -88,16 +88,6 @@ Implement voice-based market queries using AI assistants.
 
 Use deep learning (LSTM/Transformer models) for more accurate predictions.
 
-🧑‍💻 Team Members
-
-Team Lead: [Your Name]
-
-Developers: [Member 2, Member 3]
-
-Data Analyst / ML Engineer: [Member 4]
-
-UI/UX Designer: [Member 5]
-
 📅 Project ID
 
 PS19: Market Trend Prediction and Visualization Platform
