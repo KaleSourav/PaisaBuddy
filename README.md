@@ -88,10 +88,10 @@ Implement voice-based market queries using AI assistants.
 
 Use deep learning (LSTM/Transformer models) for more accurate predictions.
 
-📅 Project ID
+📅 Project ID,
 
 PS19: Market Trend Prediction and Visualization Platform
 
-📜 License
+📜 License,
 
 This project is open-source and available under the MIT License.
