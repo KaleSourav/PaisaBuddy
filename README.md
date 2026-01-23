@@ -72,7 +72,7 @@ Market Overview Card – Real-time stock/crypto prices.
 
 Sentiment Gauge – Displays positive, negative, or neutral sentiment.
 
-Trend Chart – Historical and predicted trends.
+Trend Chart – Historical and predicted trends..
 
 News Feed Panel – Latest market headlines and sentiment tags.
 
